@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "SkyJr",
+    "username": "dxstream",
     "password": "",
     "type": ""
   },
@@ -21,7 +21,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "skykatakla"
+      "password": "sauravmishra"
     },
 
     "anti-afk": {
@@ -35,9 +35,9 @@
       "repeat-delay": 60,
 
       "messages": [
-        "/skyblock",
-      "/is warp bulma afk",
-      "Sell Cocoa Beans at /is warp Bulma for 5b per Stack"]
+        "/smp",
+      "/tpaccept",
+      ""]
        
       
     },
